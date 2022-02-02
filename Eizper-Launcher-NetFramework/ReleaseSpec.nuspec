@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>EizperChainLauncher</id>
+    <version>0.0.0</version>
+    <title>EizperChain</title>
+    <authors>Eizper</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
+    <description>EizperChain</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2021</copyright>
+    <tags>Tag1 Tag2</tags>
+  </metadata>
+
+  <files>
+	  <file src="bin\Release\**" target="lib\net45"/>
+  </files>
+
+</package>

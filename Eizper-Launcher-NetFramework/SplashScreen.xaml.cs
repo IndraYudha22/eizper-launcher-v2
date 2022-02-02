@@ -13,6 +13,8 @@ using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Windows.Threading;
 
+using Squirrel;
+
 namespace Eizper_Launcher_NetFramework
 {
     /// <summary>
@@ -20,14 +22,49 @@ namespace Eizper_Launcher_NetFramework
     /// </summary>
     public partial class SplashScreen : Window
     {
+        string LINK_GITHUB = @"https://github.com/IndraYudha22/eizper-launcher-v2";
+
         DispatcherTimer dt = new DispatcherTimer();
+        UpdateManager manager;
 
         public SplashScreen()
         {
             InitializeComponent();
-            dt.Tick += new EventHandler(dt_tick);
-            dt.Interval = new TimeSpan(0, 0, 2);
-            dt.Start();
+
+            Loaded += SplashScreen_Loaded;
+
+            //dt.Tick += new EventHandler(dt_tick);
+            //dt.Interval = new TimeSpan(0, 0, 2);
+            //dt.Start();
+        }
+
+        private async void SplashScreen_Loaded(object sender, RoutedEventArgs e)
+        {
+            manager = await UpdateManager.GitHubUpdateManager(LINK_GITHUB);
+            CheckForUpdateLauncher();
+        }
+
+        private async void CheckForUpdateLauncher()
+        {
+            var updateInfo = await manager.CheckForUpdate();
+            
+            if (updateInfo.ReleasesToApply.Count > 0)
+            {
+                UpdateLauncher();
+            }
+        }
+
+        private async void UpdateLauncher()
+        {
+            await manager.UpdateApp();
+
+            if (manager.UpdateApp().IsCompleted)
+            {
+                MainWindow mw = new MainWindow();
+                mw.Show();
+
+                this.Close();
+            }
         }
 
         private void dt_tick(object sender, EventArgs e)
