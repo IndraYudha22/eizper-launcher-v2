@@ -8,7 +8,8 @@
         Title="launcher" Height="670" Width="1215"
         WindowStyle="None"
         ContentRendered="Window_ContentRendered"
-        ResizeMode="NoResize">
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen">
 
     <Window.Resources>
         <!--Add images for button mouse over event-->

@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace Eizper_Launcher_NetFramework
 {
@@ -19,9 +20,23 @@ namespace Eizper_Launcher_NetFramework
     /// </summary>
     public partial class SplashScreen : Window
     {
+        DispatcherTimer dt = new DispatcherTimer();
+
         public SplashScreen()
         {
             InitializeComponent();
+            dt.Tick += new EventHandler(dt_tick);
+            dt.Interval = new TimeSpan(0, 0, 2);
+            dt.Start();
+        }
+
+        private void dt_tick(object sender, EventArgs e)
+        {
+            MainWindow mw = new MainWindow();
+            mw.Show();
+
+            dt.Stop();
+            this.Close();
         }
     }
 }
