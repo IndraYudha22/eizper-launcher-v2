@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eizper-Launcher-NetFramework", "Eizper-Launcher-NetFramework\Eizper-Launcher-NetFramework.csproj", "{11664518-17E8-4134-97B3-E4E5E819778C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Eizper Chain Setup", "Eizper Chain Setup\Eizper Chain Setup.vdproj", "{746272B1-30E1-4035-B3E6-499FC2637CEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11664518-17E8-4134-97B3-E4E5E819778C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11664518-17E8-4134-97B3-E4E5E819778C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11664518-17E8-4134-97B3-E4E5E819778C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11664518-17E8-4134-97B3-E4E5E819778C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746272B1-30E1-4035-B3E6-499FC2637CEA}.Debug|Any CPU.ActiveCfg = Debug
+		{746272B1-30E1-4035-B3E6-499FC2637CEA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4492064D-588B-4A61-B7F3-CB360C13C476}
+	EndGlobalSection
+EndGlobal
