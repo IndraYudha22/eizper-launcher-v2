@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
 using System.Windows.Threading;
+using Path = System.IO.Path;
 
 using Squirrel;
 
@@ -54,36 +55,18 @@ namespace Eizper_Launcher_NetFramework
 
             if (updateInfo.ReleasesToApply.Count > 0)
             {
-                UpdateLauncher();
+                var lastVersion = updateInfo.ReleasesToApply.OrderBy(x => x.Version).Last();
+                await manager.DownloadReleases(updateInfo.ReleasesToApply);
+                await manager.ApplyReleases(updateInfo);
+                var latestExe = Path.Combine(manager.RootAppDirectory, string.Concat("app-", lastVersion.Version), "EizperChainLauncher.exe");
+                manager.Dispose();
+                UpdateManager.RestartApp(latestExe);
             }
             else
             {
                 dt.Tick += new EventHandler(dt_tick);
                 dt.Interval = new TimeSpan(0, 0, 2);
                 dt.Start();
-            }
-        }
-
-        private async void UpdateLauncher()
-        {
-            try
-            {
-                await manager.UpdateApp();
-                Console.WriteLine("DOWNLOAD UPDATE");
-
-                if (manager.UpdateApp().IsCompleted)
-                {
-                    Console.WriteLine("UPDATE DONE");
-                    MainWindow mw = new MainWindow();
-                    mw.Show();
-
-                    this.Close();
-                    manager.Dispose();
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message);
             }
         }
 

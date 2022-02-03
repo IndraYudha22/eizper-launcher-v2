@@ -51,8 +51,6 @@ namespace Eizper_Launcher_NetFramework
         private string game_url;
         private string version_url;
 
-        private bool extractStatus;
-
         private LauncherStatus _status;
         internal LauncherStatus Status
         {
@@ -87,7 +85,7 @@ namespace Eizper_Launcher_NetFramework
         {
             InitializeComponent();
 
-            rootPath = Directory.GetCurrentDirectory();
+            rootPath = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\"));
             versionFile = Path.Combine(rootPath, "patch_version");
             gameZip = Path.Combine(rootPath, "bin.zip");
             gameExe = Path.Combine(rootPath, "bin", NAME_GAME_EXE);
