@@ -37,7 +37,7 @@ namespace Eizper_Launcher_NetFramework
         {
             try
             {
-                using (manager = await UpdateManager.GitHubUpdateManager(@"https://github.com/IndraYudha22/eizper-launcher-v2"))
+                using (manager = await UpdateManager.GitHubUpdateManager(@"https://github.com/IndraYudha22/launcher"))
                 {
                     CheckForUpdateLauncher();
                 }
