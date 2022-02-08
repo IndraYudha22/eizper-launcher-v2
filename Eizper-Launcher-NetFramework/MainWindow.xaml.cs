@@ -91,10 +91,16 @@ namespace Eizper_Launcher_NetFramework
             gameExe = Path.Combine(rootPath, "bin", NAME_GAME_EXE);
         }
 
-        private void Downloader_DownloadProgressChanged(object sender, FileDownloader.DownloadProgress progress)
+        private void Downloader_DownloadProgressChanged(object sender, DownloadProgressChangedEventArgs progress)
         {
             downloadProgress.Value = progress.ProgressPercentage;
         }
+
+        // for google drive
+        //private void Downloader_DownloadProgressChanged(object sender, FileDownloader.DownloadProgress progress)
+        //{
+        //    downloadProgress.Value = progress.ProgressPercentage;
+        //}
 
         private void ProgressBar_Initialized(object sender, EventArgs e)
         {
@@ -154,7 +160,7 @@ namespace Eizper_Launcher_NetFramework
             try
             {
                 WebClient webClient = new WebClient();
-                FileDownloader downloader = new FileDownloader();
+                //FileDownloader downloader = new FileDownloader();
 
                 webClient.UseDefaultCredentials = true;
                 webClient.Proxy.Credentials = System.Net.CredentialCache.DefaultCredentials;
@@ -188,12 +194,15 @@ namespace Eizper_Launcher_NetFramework
                     });
                 }
 
-                //webClient.DownloadProgressChanged += new DownloadProgressChangedEventHandler(Downloader_DownloadProgressChanged);
-                //webClient.DownloadFileCompleted += new AsyncCompletedEventHandler(DownloadGameCompletedCallback);
-                //webClient.DownloadFileAsync(new Uri(URL_GAME), gameZip, _onlineVersion);
-                downloader.DownloadFileCompleted += DownloadGameCompletedCallback;
-                downloader.DownloadProgressChanged += Downloader_DownloadProgressChanged;
-                downloader.DownloadFileAsync(new Uri(game_url).ToString(), gameZip, _onlineVersion);
+                // for normal link
+                webClient.DownloadProgressChanged += new DownloadProgressChangedEventHandler(Downloader_DownloadProgressChanged);
+                webClient.DownloadFileCompleted += new AsyncCompletedEventHandler(DownloadGameCompletedCallback);
+                webClient.DownloadFileAsync(new Uri(game_url), gameZip, _onlineVersion);
+
+                // for google drive
+                //downloader.DownloadFileCompleted += DownloadGameCompletedCallback;
+                //downloader.DownloadProgressChanged += Downloader_DownloadProgressChanged;
+                //downloader.DownloadFileAsync(new Uri(game_url).ToString(), gameZip, _onlineVersion);
             }
             catch (Exception ex)
             {
