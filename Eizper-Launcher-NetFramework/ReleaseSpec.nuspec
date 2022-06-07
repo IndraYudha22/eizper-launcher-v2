@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>EizperChainLauncher</id>
-    <version>1.0.1</version>
+    <version>1.0.0</version>
     <title>EizperChain</title>
     <authors>Eizper</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>

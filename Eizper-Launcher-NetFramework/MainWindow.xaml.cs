@@ -30,9 +30,18 @@ namespace Eizper_Launcher_NetFramework
     {
         public ProgressBar downloadProgress;
 
-        private string URL_VERSION = "https://drive.google.com/uc?export=download&id=1xen01l4RJCG0Tdc2nHWrNZTRWOgZPgMK";
-        private string URL_GAME = "https://drive.google.com/uc?export=download&id=1XwBPQWBh_r2ynyXeY5q6xvUxicZVyTVW";
+        //private string URL_VERSION = "https://sgp1.digitaloceanspaces.com/eizdlbin/setup/Testing%20Game%20Bin/link_version.txt";
+        //private string URL_GAME = "https://sgp1.digitaloceanspaces.com/eizdlbin/setup/Testing%20Game%20Bin/link_exe_game.txt";
+        //private string NAME_GAME_EXE = "EizperChain.exe";
+
+        private string URL_VERSION = "https://sgp1.digitaloceanspaces.com/eizdlbin/setup/link_version.txt";
+        private string URL_GAME = "https://sgp1.digitaloceanspaces.com/eizdlbin/setup/link_exe_game.txt";
         private string NAME_GAME_EXE = "EizperChain.exe";
+
+        // for google drive
+        //private string URL_VERSION = "https://drive.google.com/uc?export=download&id=1xen01l4RJCG0Tdc2nHWrNZTRWOgZPgMK";
+        //private string URL_GAME = "https://drive.google.com/uc?export=download&id=1XwBPQWBh_r2ynyXeY5q6xvUxicZVyTVW";
+        //private string NAME_GAME_EXE = "EizperChain.exe";
 
         #region URL SOCIAL MEDIA
         private string URL_TWITTER = "https://twitter.com/EizperChain";

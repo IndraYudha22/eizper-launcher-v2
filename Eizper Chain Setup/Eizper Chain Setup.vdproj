@@ -15,56 +15,428 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_41FBB6979957442C95A95A9960F5A2BA"
+        "MsmKey" = "8:_02C32E0E3CD347EA9D2CF5C5AD94D2B3"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_430E4E3B6E08F7F0B60B467AE4564BE1"
-        "OwnerKey" = "8:_41FBB6979957442C95A95A9960F5A2BA"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_69C903D6D6A94F11AF9FDA299C2C004D"
+        "MsmKey" = "8:_06461CCF64214B1D8BDCF1EF2991EDF6"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_7D430CFEC14544A69AEE6F50EC1CA362"
+        "MsmKey" = "8:_0AA2DC00515463DB6D9C627D78577827"
+        "OwnerKey" = "8:_821E3D36C54C43D880EC7C3B5EE2E203"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0AA2DC00515463DB6D9C627D78577827"
+        "OwnerKey" = "8:_DC7376647053434C8075027792C6649D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_0DA55C9D7B03428591A47E584070FEB8"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_9D1F3F4ED62E71FF8A09E1740A86B5D9"
-        "OwnerKey" = "8:_430E4E3B6E08F7F0B60B467AE4564BE1"
+        "MsmKey" = "8:_152F531BC657C02A56E50404881C1FE5"
+        "OwnerKey" = "8:_514BD6CC2194811E67434A2447F7A2C5"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_F506A0FAAF664A37919A682DDFBF2B3E"
+        "MsmKey" = "8:_152F531BC657C02A56E50404881C1FE5"
+        "OwnerKey" = "8:_7E49841D21BE4709BC0CA89817E3F605"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_155FAF72312BB2C60B6C563266DC8948"
+        "OwnerKey" = "8:_514BD6CC2194811E67434A2447F7A2C5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_155FAF72312BB2C60B6C563266DC8948"
+        "OwnerKey" = "8:_7E49841D21BE4709BC0CA89817E3F605"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_16F2C471F666433296F9C5570F490FB7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_1CF8847DADB340BBB188BA3863822811"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2E3C43B2AE3E4BB59861E5836AED9148"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46AAFC5AB10C02365A49B9EBAD226F37"
+        "OwnerKey" = "8:_514BD6CC2194811E67434A2447F7A2C5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46AAFC5AB10C02365A49B9EBAD226F37"
+        "OwnerKey" = "8:_7E49841D21BE4709BC0CA89817E3F605"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46AAFC5AB10C02365A49B9EBAD226F37"
+        "OwnerKey" = "8:_842AD138190647AE90EE3484EA5BD982"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46AAFC5AB10C02365A49B9EBAD226F37"
+        "OwnerKey" = "8:_02C32E0E3CD347EA9D2CF5C5AD94D2B3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_46AAFC5AB10C02365A49B9EBAD226F37"
+        "OwnerKey" = "8:_9FC634A8520E4534BF2D3839B3894BEB"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_480761A02DEE481184B90BC68FF68E6D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5094DC6E5FD74C8FA5FDC6B3FB1A2D55"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_514BD6CC2194811E67434A2447F7A2C5"
+        "OwnerKey" = "8:_821E3D36C54C43D880EC7C3B5EE2E203"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5B6EDB79F03843C7837DE33D2AD74A01"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_69A0AC8782C845CC91B5D9427F235CF8"
+        "OwnerKey" = "8:_821E3D36C54C43D880EC7C3B5EE2E203"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_69A0AC8782C845CC91B5D9427F235CF8"
+        "OwnerKey" = "8:_7E49841D21BE4709BC0CA89817E3F605"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_69A0AC8782C845CC91B5D9427F235CF8"
+        "OwnerKey" = "8:_514BD6CC2194811E67434A2447F7A2C5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7E49841D21BE4709BC0CA89817E3F605"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_821E3D36C54C43D880EC7C3B5EE2E203"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8270B14ECBED49398B2B90D38DA956B8"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_842AD138190647AE90EE3484EA5BD982"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_881489641E4E3CC5B03694E41552B2E0"
+        "OwnerKey" = "8:_0AA2DC00515463DB6D9C627D78577827"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8C70BB17E999459CA6D40C5C3D213D02"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_91EFAC8833B249CCAD77B5FB2B2488D3"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_97B447246384421C9D218D3B6DA851C2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9FB559833714455780F8ED2BDB66814D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9FC634A8520E4534BF2D3839B3894BEB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A30AEB63818147468781EA594E1A82DC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A6BB5247DDE9F72481D0F74DB1EBA3D9"
+        "OwnerKey" = "8:_5B6EDB79F03843C7837DE33D2AD74A01"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A6BB5247DDE9F72481D0F74DB1EBA3D9"
+        "OwnerKey" = "8:_155FAF72312BB2C60B6C563266DC8948"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A6BB5247DDE9F72481D0F74DB1EBA3D9"
+        "OwnerKey" = "8:_480761A02DEE481184B90BC68FF68E6D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BAD1B465C2E94DA29F73E62530ED7504"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_BE2CE71CF22F40449624E6A93BD0E888"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CA73072EE88D4DFE921061D1627D9657"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D3CFA196E66F47038B1DBA4655880A20"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D56CB186CB834BD6B5CA4937F592B351"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D7573C0A387143E6B1F7A8298E4194C7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_DC7376647053434C8075027792C6649D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E5FE374CA4251A8B39500D98A9BCD2B5"
+        "OwnerKey" = "8:_514BD6CC2194811E67434A2447F7A2C5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E5FE374CA4251A8B39500D98A9BCD2B5"
+        "OwnerKey" = "8:_DC7376647053434C8075027792C6649D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E5FE374CA4251A8B39500D98A9BCD2B5"
+        "OwnerKey" = "8:_7E49841D21BE4709BC0CA89817E3F605"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F33C7D030ABD4BA0AC022C3FED2CAEFF"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9D1F3F4ED62E71FF8A09E1740A86B5D9"
+        "OwnerKey" = "8:_8270B14ECBED49398B2B90D38DA956B8"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_41FBB6979957442C95A95A9960F5A2BA"
+        "OwnerKey" = "8:_DC7376647053434C8075027792C6649D"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_430E4E3B6E08F7F0B60B467AE4564BE1"
+        "OwnerKey" = "8:_7E49841D21BE4709BC0CA89817E3F605"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_06461CCF64214B1D8BDCF1EF2991EDF6"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_2E3C43B2AE3E4BB59861E5836AED9148"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_BAD1B465C2E94DA29F73E62530ED7504"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_842AD138190647AE90EE3484EA5BD982"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_02C32E0E3CD347EA9D2CF5C5AD94D2B3"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9FC634A8520E4534BF2D3839B3894BEB"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_CA73072EE88D4DFE921061D1627D9657"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_821E3D36C54C43D880EC7C3B5EE2E203"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_514BD6CC2194811E67434A2447F7A2C5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_E5FE374CA4251A8B39500D98A9BCD2B5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_152F531BC657C02A56E50404881C1FE5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_46AAFC5AB10C02365A49B9EBAD226F37"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_155FAF72312BB2C60B6C563266DC8948"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_69A0AC8782C845CC91B5D9427F235CF8"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0AA2DC00515463DB6D9C627D78577827"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_881489641E4E3CC5B03694E41552B2E0"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_480761A02DEE481184B90BC68FF68E6D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_5B6EDB79F03843C7837DE33D2AD74A01"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_A6BB5247DDE9F72481D0F74DB1EBA3D9"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -162,23 +534,23 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_41FBB6979957442C95A95A9960F5A2BA"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_02C32E0E3CD347EA9D2CF5C5AD94D2B3"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:EizperChainLauncher, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Mono.Cecil.Pdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_41FBB6979957442C95A95A9960F5A2BA"
+                    "_02C32E0E3CD347EA9D2CF5C5AD94D2B3"
                     {
-                    "Name" = "8:EizperChainLauncher.exe"
+                    "Name" = "8:Mono.Cecil.Pdb.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\Debug\\EizperChainLauncher.exe"
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Mono.Cecil.Pdb.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -193,14 +565,45 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_430E4E3B6E08F7F0B60B467AE4564BE1"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_06461CCF64214B1D8BDCF1EF2991EDF6"
             {
             "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:TRUE"
-            "AssemblyAsmDisplayName" = "8:System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Splat, Version=1.6.2.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_430E4E3B6E08F7F0B60B467AE4564BE1"
+                    "_06461CCF64214B1D8BDCF1EF2991EDF6"
+                    {
+                    "Name" = "8:Splat.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Splat.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0AA2DC00515463DB6D9C627D78577827"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
+                "ScatterAssemblies"
+                {
+                    "_0AA2DC00515463DB6D9C627D78577827"
                     {
                     "Name" = "8:System.IO.Compression.FileSystem.dll"
                     "Attributes" = "3:512"
@@ -209,7 +612,7 @@
             "SourcePath" = "8:System.IO.Compression.FileSystem.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -224,12 +627,12 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_69C903D6D6A94F11AF9FDA299C2C004D"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_0DA55C9D7B03428591A47E584070FEB8"
             {
-            "SourcePath" = "8:C:\\Users\\yudha\\Pictures\\Eizper_Chain_Icon_400px-02.ico"
-            "TargetName" = "8:eizper.ico"
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Mono.Cecil.Rocks.pdb"
+            "TargetName" = "8:Mono.Cecil.Rocks.pdb"
             "Tag" = "8:"
-            "Folder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -244,12 +647,74 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_7D430CFEC14544A69AEE6F50EC1CA362"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_152F531BC657C02A56E50404881C1FE5"
             {
-            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\Debug\\EizperChainLauncher.pdb"
-            "TargetName" = "8:EizperChainLauncher.pdb"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SharpCompress, Version=0.17.1.0, Culture=neutral, PublicKeyToken=afb0a02973931d96, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_152F531BC657C02A56E50404881C1FE5"
+                    {
+                    "Name" = "8:SharpCompress.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:SharpCompress.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
-            "Folder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_155FAF72312BB2C60B6C563266DC8948"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:DeltaCompressionDotNet.MsDelta, Version=1.1.0.0, Culture=neutral, PublicKeyToken=46b2138a390abf55, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_155FAF72312BB2C60B6C563266DC8948"
+                    {
+                    "Name" = "8:DeltaCompressionDotNet.MsDelta.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:DeltaCompressionDotNet.MsDelta.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_16F2C471F666433296F9C5570F490FB7"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Mono.Cecil.pdb"
+            "TargetName" = "8:Mono.Cecil.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -264,20 +729,705 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9D1F3F4ED62E71FF8A09E1740A86B5D9"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_1CF8847DADB340BBB188BA3863822811"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Splat.pdb"
+            "TargetName" = "8:Splat.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2E3C43B2AE3E4BB59861E5836AED9148"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:SharpCompress, Version=0.17.1.0, Culture=neutral, PublicKeyToken=afb0a02973931d96, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_2E3C43B2AE3E4BB59861E5836AED9148"
+                    {
+                    "Name" = "8:SharpCompress.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\SharpCompress.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_46AAFC5AB10C02365A49B9EBAD226F37"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Mono.Cecil, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_46AAFC5AB10C02365A49B9EBAD226F37"
+                    {
+                    "Name" = "8:Mono.Cecil.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Mono.Cecil.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_480761A02DEE481184B90BC68FF68E6D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:DeltaCompressionDotNet.PatchApi, Version=1.1.0.0, Culture=neutral, PublicKeyToken=3e8888ee913ed789, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_480761A02DEE481184B90BC68FF68E6D"
+                    {
+                    "Name" = "8:DeltaCompressionDotNet.PatchApi.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\DeltaCompressionDotNet.PatchApi.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5094DC6E5FD74C8FA5FDC6B3FB1A2D55"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\packages\\RELEASES"
+            "TargetName" = "8:RELEASES"
+            "Tag" = "8:"
+            "Folder" = "8:_30E7F206D0B84F658B33BA228BF3CE34"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_514BD6CC2194811E67434A2447F7A2C5"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Squirrel, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_514BD6CC2194811E67434A2447F7A2C5"
+                    {
+                    "Name" = "8:Squirrel.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Squirrel.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5B6EDB79F03843C7837DE33D2AD74A01"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:DeltaCompressionDotNet.MsDelta, Version=1.1.0.0, Culture=neutral, PublicKeyToken=46b2138a390abf55, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_5B6EDB79F03843C7837DE33D2AD74A01"
+                    {
+                    "Name" = "8:DeltaCompressionDotNet.MsDelta.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\DeltaCompressionDotNet.MsDelta.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_69A0AC8782C845CC91B5D9427F235CF8"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:NuGet.Squirrel, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_69A0AC8782C845CC91B5D9427F235CF8"
+                    {
+                    "Name" = "8:NuGet.Squirrel.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:NuGet.Squirrel.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7E49841D21BE4709BC0CA89817E3F605"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Squirrel, Version=2.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_7E49841D21BE4709BC0CA89817E3F605"
+                    {
+                    "Name" = "8:Squirrel.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Squirrel.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_821E3D36C54C43D880EC7C3B5EE2E203"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:EizperChainLauncher, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_821E3D36C54C43D880EC7C3B5EE2E203"
+                    {
+                    "Name" = "8:EizperChainLauncher.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\EizperChainLauncher.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8270B14ECBED49398B2B90D38DA956B8"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:DeltaCompressionDotNet, Version=1.1.0.0, Culture=neutral, PublicKeyToken=1d14d6e5194e7f4a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_8270B14ECBED49398B2B90D38DA956B8"
+                    {
+                    "Name" = "8:DeltaCompressionDotNet.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\DeltaCompressionDotNet.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_842AD138190647AE90EE3484EA5BD982"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Mono.Cecil.Rocks, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_842AD138190647AE90EE3484EA5BD982"
+                    {
+                    "Name" = "8:Mono.Cecil.Rocks.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Mono.Cecil.Rocks.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_881489641E4E3CC5B03694E41552B2E0"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:TRUE"
             "AssemblyAsmDisplayName" = "8:System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_9D1F3F4ED62E71FF8A09E1740A86B5D9"
+                    "_881489641E4E3CC5B03694E41552B2E0"
                     {
                     "Name" = "8:System.IO.Compression.dll"
                     "Attributes" = "3:512"
                     }
                 }
             "SourcePath" = "8:System.IO.Compression.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_8C70BB17E999459CA6D40C5C3D213D02"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\packages\\EizperChainLauncher-1.0.0-full.nupkg"
+            "TargetName" = "8:EizperChainLauncher-1.0.0-full.nupkg"
+            "Tag" = "8:"
+            "Folder" = "8:_30E7F206D0B84F658B33BA228BF3CE34"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_91EFAC8833B249CCAD77B5FB2B2488D3"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\EizperChainLauncher.exe"
+            "TargetName" = "8:EizperChainLauncher.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_97B447246384421C9D218D3B6DA851C2"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Mono.Cecil.Pdb.pdb"
+            "TargetName" = "8:Mono.Cecil.Pdb.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9FB559833714455780F8ED2BDB66814D"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\SquirrelSetup.log"
+            "TargetName" = "8:SquirrelSetup.log"
+            "Tag" = "8:"
+            "Folder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9FC634A8520E4534BF2D3839B3894BEB"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Mono.Cecil.Mdb, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9FC634A8520E4534BF2D3839B3894BEB"
+                    {
+                    "Name" = "8:Mono.Cecil.Mdb.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Mono.Cecil.Mdb.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A30AEB63818147468781EA594E1A82DC"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\EizperChainLauncher.exe.config"
+            "TargetName" = "8:EizperChainLauncher.exe.config"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A6BB5247DDE9F72481D0F74DB1EBA3D9"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:DeltaCompressionDotNet, Version=1.1.0.0, Culture=neutral, PublicKeyToken=1d14d6e5194e7f4a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_A6BB5247DDE9F72481D0F74DB1EBA3D9"
+                    {
+                    "Name" = "8:DeltaCompressionDotNet.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:DeltaCompressionDotNet.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_BAD1B465C2E94DA29F73E62530ED7504"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:NuGet.Squirrel, Version=3.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_BAD1B465C2E94DA29F73E62530ED7504"
+                    {
+                    "Name" = "8:NuGet.Squirrel.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\NuGet.Squirrel.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_BE2CE71CF22F40449624E6A93BD0E888"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Mono.Cecil.Mdb.pdb"
+            "TargetName" = "8:Mono.Cecil.Mdb.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CA73072EE88D4DFE921061D1627D9657"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Mono.Cecil, Version=0.11.2.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_CA73072EE88D4DFE921061D1627D9657"
+                    {
+                    "Name" = "8:Mono.Cecil.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Mono.Cecil.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D3CFA196E66F47038B1DBA4655880A20"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\EizperChainLauncher.pdb"
+            "TargetName" = "8:EizperChainLauncher.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D56CB186CB834BD6B5CA4937F592B351"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\NuGet.Squirrel.pdb"
+            "TargetName" = "8:NuGet.Squirrel.pdb"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_D7573C0A387143E6B1F7A8298E4194C7"
+            {
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\packages\\.betaId"
+            "TargetName" = "8:.betaId"
+            "Tag" = "8:"
+            "Folder" = "8:_30E7F206D0B84F658B33BA228BF3CE34"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_DC7376647053434C8075027792C6649D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Update.exe, Version=1.9.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_DC7376647053434C8075027792C6649D"
+                    {
+                    "Name" = "8:Update.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\Update.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
@@ -292,15 +1442,46 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E5FE374CA4251A8B39500D98A9BCD2B5"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:System.Net.Http, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_E5FE374CA4251A8B39500D98A9BCD2B5"
+                    {
+                    "Name" = "8:System.Net.Http.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:System.Net.Http.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F506A0FAAF664A37919A682DDFBF2B3E"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_F33C7D030ABD4BA0AC022C3FED2CAEFF"
             {
-            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\Debug\\EizperChainLauncher.exe.config"
-            "TargetName" = "8:EizperChainLauncher.exe.config"
+            "SourcePath" = "8:..\\Eizper-Launcher-NetFramework\\bin\\app-1.0.0\\Squirrel.pdb"
+            "TargetName" = "8:Squirrel.pdb"
             "Tag" = "8:"
-            "Folder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
+            "Folder" = "8:_1A04B30399994DCFACBA68848DD1064B"
             "Condition" = "8:"
             "Transitive" = "11:FALSE"
             "Vital" = "11:TRUE"
@@ -330,17 +1511,6 @@
             "Property" = "8:ProgramMenuFolder"
                 "Folders"
                 {
-                    "{9EF0B969-E518-4E46-987F-47570745A589}:_E6BF37C2294849BBB96E790D3B1EC6A8"
-                    {
-                    "Name" = "8:Eizper"
-                    "AlwaysCreate" = "11:FALSE"
-                    "Condition" = "8:"
-                    "Transitive" = "11:FALSE"
-                    "Property" = "8:_61C4F3FBAD4E46D4BFC8F867948A35CA"
-                        "Folders"
-                        {
-                        }
-                    }
                 }
             }
             "{1525181F-901A-416C-8A58-119130FE478E}:_CABE975613764516B0D246E9FAB6723D"
@@ -364,6 +1534,39 @@
             "Property" = "8:TARGETDIR"
                 "Folders"
                 {
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_1A04B30399994DCFACBA68848DD1064B"
+                    {
+                    "Name" = "8:app-1.0.0"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_C50FD5E29F5443D89B23071B19F71518"
+                        "Folders"
+                        {
+                        }
+                    }
+                    "{9EF0B969-E518-4E46-987F-47570745A589}:_30E7F206D0B84F658B33BA228BF3CE34"
+                    {
+                    "Name" = "8:packages"
+                    "AlwaysCreate" = "11:FALSE"
+                    "Condition" = "8:"
+                    "Transitive" = "11:FALSE"
+                    "Property" = "8:_426E01411EC3413781772D066A7F55A0"
+                        "Folders"
+                        {
+                            "{9EF0B969-E518-4E46-987F-47570745A589}:_6323859CBF9A4A7CB0F37D083A6435A9"
+                            {
+                            "Name" = "8:SquirrelTemp"
+                            "AlwaysCreate" = "11:FALSE"
+                            "Condition" = "8:"
+                            "Transitive" = "11:FALSE"
+                            "Property" = "8:_2050343A231A41D69DB792F6A925FD0A"
+                                "Folders"
+                                {
+                                }
+                            }
+                        }
+                    }
                 }
             }
         }
@@ -400,7 +1603,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:www.eizperchain.com"
-        "ARPPRODUCTICON" = "8:_69C903D6D6A94F11AF9FDA299C2C004D"
+        "ARPPRODUCTICON" = "8:"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -503,34 +1706,6 @@
         }
         "Shortcut"
         {
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_108663E2B9364262B7F9B062E471BBAB"
-            {
-            "Name" = "8:Eizper Chain Launcher.exe"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_41FBB6979957442C95A95A9960F5A2BA"
-            "Folder" = "8:_CABE975613764516B0D246E9FAB6723D"
-            "WorkingFolder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
-            "Icon" = "8:_69C903D6D6A94F11AF9FDA299C2C004D"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_20C6D0F23F5D4BE2910E923E2381FBDA"
-            {
-            "Name" = "8:Eizper Chain Launcher.exe"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_41FBB6979957442C95A95A9960F5A2BA"
-            "Folder" = "8:_E6BF37C2294849BBB96E790D3B1EC6A8"
-            "WorkingFolder" = "8:_F04687554BC24044A8F0EAF18E8AE118"
-            "Icon" = "8:_69C903D6D6A94F11AF9FDA299C2C004D"
-            "Feature" = "8:"
-            }
         }
         "UserInterface"
         {
